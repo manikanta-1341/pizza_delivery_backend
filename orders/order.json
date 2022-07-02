@@ -1,0 +1,31 @@
+{
+  "id": "order_JoPjsraLwRI6Bk",
+  "entity": "order",
+  "amount": 65000,
+  "amount_paid": 0,
+  "amount_due": 65000,
+  "currency": "INR",
+  "receipt": "0420130a-cd2d-4bd2-8d6b-bb38f65798ff",
+  "offer_id": null,
+  "status": "created",
+  "attempts": 0,
+  "notes": [],
+  "created_at": 1656746696,
+  "user_id": "62a9eddafd7587a9c76d9c3f",
+  "user_order": [
+    {
+      "_id": "62615c1f1405f1939f1fd12c",
+      "name": "MARGHERITA",
+      "selected": "Small",
+      "price": 150,
+      "quantity": 1
+    },
+    {
+      "_id": "62615caa1405f1939f1fd12f",
+      "name": "DOUBLE CHEESE MARGHERITA",
+      "selected": "Medium",
+      "price": 500,
+      "quantity": 1
+    }
+  ]
+}
